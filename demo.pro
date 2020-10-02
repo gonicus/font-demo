@@ -1,5 +1,3 @@
-include(conanbuildinfo.pri)
-
 QT += quick gui
 
 CONFIG += c++11 qmltypes
